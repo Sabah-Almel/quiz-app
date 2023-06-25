@@ -1,0 +1,82 @@
+[
+    {
+        "question_text": "What year did World War II begin?",
+        "options": [
+            "1939",
+            "1940",
+            "1941",
+            "1942"
+        ],
+        "answer": "1939"
+    },
+    {
+        "question_text": "Who was the first president of the United States?",
+        "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Franklin D. Roosevelt"
+        ],
+        "answer": "George Washington"
+    },
+    {
+        "question_text": "In which year was the American Declaration of Independence signed?",
+        "options": [
+            "1776",
+            "1777",
+            "1778",
+            "1779"
+        ],
+        "answer": "1776"
+    },
+    {
+        "question_text": "What event marked the end of World War I?",
+        "options": [
+            "The signing of the Treaty of Versailles",
+            "The assassination of Archduke Franz Ferdinand",
+            "The sinking of the Lusitania",
+            "The bombing of Pearl Harbor"
+        ],
+        "answer": "The signing of the Treaty of Versailles"
+    },
+    {
+        "question_text": "Which of the following is considered one of the Seven Wonders of the Ancient World?",
+        "options": [
+            "The Eiffel Tower",
+            "The Colosseum",
+            "The Great Wall of China",
+            "The Pyramids of Giza"
+        ],
+        "answer": "The Pyramids of Giza"
+    },
+    {
+        "question_text": "What was the cause of the French Revolution?",
+        "options": [
+            "The Enlightenment",
+            "The Industrial Revolution",
+            "Financial crisis and political mismanagement",
+            "The end of the Cold War"
+        ],
+        "answer": "Financial crisis and political mismanagement"
+    },
+    {
+        "question_text": "What was the outcome of the Battle of Waterloo?",
+        "options": [
+            "Napoleon Bonaparte was defeated and exiled to St. Helena",
+            "Napoleon Bonaparte won and continued his reign as emperor of France",
+            "Napoleon Bonaparte was assassinated",
+            "Napoleon Bonaparte abdicated the throne and retired to Corsica"
+        ],
+        "answer": "Napoleon Bonaparte was defeated and exiled to St. Helena"
+    },
+    {
+        "question_text": "Which of the following was a major cause of World War II?",
+        "options": [
+            "The fall of the Soviet Union",
+            "The rise of fascism in Europe",
+            "The invention of the internet",
+            "The defeat of Germany in World War I"
+        ],
+        "answer": "The rise of fascism in Europe"
+    } 
+]
